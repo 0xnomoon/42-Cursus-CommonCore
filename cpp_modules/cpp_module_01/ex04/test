@@ -1,0 +1,6 @@
+Un noyau de système d’exploitation, ou simplement noyau, ou kernel en anglais1, est une des parties fondamentales de certains systèmes d’exploitation. 
+Il gère les ressources de l’ordinateur et permet aux différents composants — matériels et logiciels — de communiquer entre eux.
+En tant que partie du système d’exploitation, le noyau fournit des mécanismes d’abstraction du matériel, notamment de la mémoire, du (ou des) processeur(s), et des échanges d’informations entre logiciels et périphériques matériels. 
+Le noyau autorise aussi diverses abstractions logicielles et facilite la communication entre les processus.
+Le noyau d’un système d’exploitation est lui-même un logiciel, mais ne peut cependant utiliser tous les mécanismes d’abstraction qu’il fournit aux autres logicielsnote 1. Son rôle central impose par ailleurs des performances élevées. Cela fait du noyau la partie la plus critique d’un système d’exploitation et rend sa conception et sa programmation particulièrement délicates.
+Plusieurs techniques sont mises en œuvre pour simplifier la programmation des noyaux tout en garantissant de bonnes performances.
